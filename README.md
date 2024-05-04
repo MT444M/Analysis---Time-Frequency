@@ -66,3 +66,7 @@ Methods for calculating time-frequency representations of synthetic signals are 
 ## Conclusion
 
 This project implements various time-frequency analysis techniques on synthetic and real-world signals. The analysis explores methods such as the Fourier Transform, spectrogram method, and other time-frequency methods. Each method has its advantages and disadvantages, and the choice of the appropriate method depends on the specific characteristics of the signal to be analyzed and the objectives of the analysis. The project provides a practical introduction to time-frequency analysis of signals, with potential applications in areas such as signal processing, pattern recognition, and bioacoustics.
+
+## Dependencies
+
+The project works with Matlab, but it is not a Matlab toolbox. It can be obtained from the following address: [http://tftb.nongnu.org/](http://tftb.nongnu.org/). For wavelets, there is a specific toolbox (Wavelab 850) available for download at the following address: [http://statweb.stanford.edu/~wavelab/Wavelab\_850/download.html](http://statweb.stanford.edu/~wavelab/Wavelab_850/download.html)
