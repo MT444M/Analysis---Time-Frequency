@@ -23,6 +23,9 @@ The advanced analysis of acoustic signals in the time-frequency domain is crucia
 
 ## Analysis on Synthetic Signals
 
+![synthetic_signal](https://github.com/MT444M/HIM-java/assets/107960014/2fdd2037-7fda-4268-b7d7-2165a9d37e71)
+
+
 ### Signal Creation
 
 Two synthetic signals are created for analysis:
@@ -39,6 +42,8 @@ The Discrete Fourier Transform (DFT) is applied to the synthetic signals and the
 Theoretical expectations for the ideal time-frequency representation (TFR) of both synthetic signals are discussed. The Short-Time Fourier Transform (STFT) with a Kaiser-Bessel window is used to analyze the signals, and the influence of window size on time and frequency resolution is explored.
 
 ## Analysis on Real-world Non-Stationary Signals
+
+![real_signal](https://github.com/MT444M/HIM-java/assets/107960014/66d11366-161f-4049-8e80-a503783f44e4)
 
 ### Frequency Method Analysis
 
